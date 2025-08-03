@@ -5,6 +5,7 @@ numpy
 opencv-python-headless
 Pillow
 matplotlib
-streamlit-drawable-canvas
+streamlit==1.28.1
+streamlit-drawable-canvas==0.9.3
 scikit-learn
 joblib
