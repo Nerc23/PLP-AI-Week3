@@ -1,4 +1,5 @@
 # requirements.txt for Streamlit MNIST Classifier App
+tensorflow
 streamlit
 numpy
 opencv-python-headless
